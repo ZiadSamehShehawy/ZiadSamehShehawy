@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-📫 How to reach me: Feel free to connect with me on LinkedIn
+# How to reach me: Feel free to connect with me on LinkedIn
 <div align="left">
   <a href="https://www.linkedin.com/in/ziad-sameh/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </div>
