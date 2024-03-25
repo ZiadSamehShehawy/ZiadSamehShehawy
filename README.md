@@ -6,7 +6,9 @@
 - 💬 Ask me about my experience in DevOps methodologies, Linux system administration, and VMware virtualization.
 - ⚡ Fun fact: I enjoy exploring new hiking trails and experimenting with different coffee brewing techniques in my free time.
 
-<p align="left">Hello World!!</p>
+###
+
+<p align="left">This is the toolkit that I possess and work with, and there are more others.</p>
 
 ###
 
@@ -35,7 +37,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ziad-sameh/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
 </div>
 
 ###
+
